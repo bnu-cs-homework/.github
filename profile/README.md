@@ -5,7 +5,7 @@
     </p>
       <p align="center">
         <a href="https://github.com/bnu-cs-homework">
-          <img alt="organization" src="https://img.shields.io/badge/org-zju--cs--homework-orange?logo=Aseprite&logoColor=ff3300&style=flat" />
+          <img alt="organization" src="https://img.shields.io/badge/org-bnu--cs--homework-orange?logo=Aseprite&logoColor=ff3300&style=flat" />
         </a>
         <a href="tencent://message/?uin=2300546456&Site=&Menu=yes">
           <img src="https://img.shields.io/badge/qq-contact-ff69b4?logo=Tencent QQ&logoColor=66ccff&style=flat" />
